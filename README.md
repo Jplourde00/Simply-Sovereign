@@ -1,2 +1,2 @@
 # Simply-Sovereign
-site for nodes
+website for nodes sales

@@ -17,8 +17,7 @@ You can trust it — because it's all open source, and we show every step.
 ## 🛠️ How It's Built
 
 No funny business. Here's what we do:
-
-1. Download the official [Raspberry Pi OS Lite](https://www.raspberrypi.com/software/operating-systems/)
+1. [Download Umbrel OS from the official site](https://umbrel.com)
 2. Flash it with [Balena Etcher](https://etcher.io) (or `dd`)
 3. Install [Bitcoin Knots](https://bitcoinknots.org/) using official builds
 4. Set up the SSD for blockchain data
